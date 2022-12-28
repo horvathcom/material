@@ -1,3 +1,3 @@
 # Home
 
-hello world. how ya doon 
+Hello world. How you doin?
